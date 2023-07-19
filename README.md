@@ -12,7 +12,7 @@ Obtención de la hora a través del sistema operativo del wearable.
 &nbsp;
 |  Característica |  Información |
 | :------------: | :------------: |
-| Nombre | **Practica* Hora actual del dispositivo * |
+| Nombre | Practica Hora actual del dispositivo|
 | Descripción  |Obtención de la hora a través del sistema operativo del wearable.|
 |  Fecha de Carga | 07/06/23  |
 
